@@ -17,10 +17,11 @@
     width: 100%;
     min-height: 200px;
     font-family: "Roboto", sans-serif;
-    color: var(--secondary-color);
-    background-color: var(--primary-color);
+    background-color: greenyellow;
   }
-  
+  .h2 {
+    font-size: medium;
+  }
   main {
     min-height: 100vh;
     margin: 0 10%;
